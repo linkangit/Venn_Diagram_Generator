@@ -3,7 +3,6 @@
 A powerful, interactive Python tool for creating beautiful and customizable Venn diagrams with 2-5 sets. Perfect for data visualization, presentations, and educational purposes.
 
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-required-orange.svg)
 
 ## ✨ Features
