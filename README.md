@@ -5,6 +5,9 @@ A powerful, interactive Python tool for creating beautiful and customizable Venn
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-required-orange.svg)
 
+## Example Venn Diagram 
+![](Hypocotyl Up-regulated.png)
+
 ## ✨ Features
 
 - **Multiple Set Support**: Create Venn diagrams with 2, 3, 4, or 5 sets
