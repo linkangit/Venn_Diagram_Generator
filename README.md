@@ -6,7 +6,7 @@ A powerful, interactive Python tool for creating beautiful and customizable Venn
 ![Matplotlib](https://img.shields.io/badge/matplotlib-required-orange.svg)
 
 ## Example Venn Diagram 
-![](Hypocotyl Up-regulated.png)
+![](figure.png)
 
 ## ✨ Features
 
